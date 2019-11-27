@@ -1,0 +1,7 @@
+tensorflow==2.0
+future
+tensorflow_datasets
+numpy
+matplotlib
+pathlib
+requests==2.21.0
