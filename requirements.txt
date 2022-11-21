@@ -1,4 +1,4 @@
-tensorflow==2.5.1
+tensorflow==2.9.3
 future
 tensorflow_datasets
 numpy
